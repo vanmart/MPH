@@ -1,0 +1,9 @@
+#definiendo de variables pribadas para los entornos de desarrollo 
+DATABASE_USER: "postgres"
+DATABASE_PASSWORD: "s4mur41"
+
+development:
+	DEV_DATABASE_NAME: "dev_mph_db"
+
+test:
+	TEST_DATABASE_NAME: "test_mph_db"
